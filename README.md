@@ -20,7 +20,8 @@
 
 ## 看演示、拿清单、咨询预览
 
-- [布局方案与真实自有演示](https://www.angetlean.com/layout/)
+- [看 28.5 秒平面图到空间效果演示](https://www.angetlean.com/layout/assets/factory-skill-story-v6.mp4)
+- [布局方案与演示说明](https://www.angetlean.com/layout/)
 - [新场地布局资料清单](https://www.angetlean.com/guides/factory-layout-brief/)
 - [闲鱼咨询与免费概念预览申请](https://www.goofish.com/item?id=1080049343062)
 
