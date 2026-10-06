@@ -46,6 +46,7 @@
 - [布局方案与演示说明](https://www.angetlean.com/layout/)
 - [查看 48㎡咖啡工作室自有演示案例：输入图、空间示意与核对点](https://github.com/S370035760/leanedge-skills/blob/main/examples/48sqm-studio-space-preview.md)
 - [不会CAD，先用5步讲清办公室平面方案与交图清单](examples/office-floor-plan-checklist.md)
+- [300㎡鲜切水果车间：5个分区、4个视角与现场核对点](examples/freshcut-300sqm-layout.md)
 - [复制填写仓库/工厂布局需求表，减少来回沟通](examples/warehouse-layout-inquiry-template.md)
 - [新场地布局资料清单](https://www.angetlean.com/guides/factory-layout-brief/)
 - [闲鱼咨询与免费概念预览申请](https://www.goofish.com/item?id=1080049343062)
